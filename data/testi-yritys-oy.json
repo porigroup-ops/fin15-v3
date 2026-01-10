@@ -1,0 +1,11 @@
+{
+  "slug": "testi-yritys-oy",
+  "name": "Testi Yritys Oy",
+  "heroTitle": "Ammattisiivous yrityksille ja kodeille",
+  "heroSubtitle": "Nopea tarjous, selkeä hinnoittelu, luotettava laatu.",
+  "sections": [
+    { "type": "text", "title": "Palvelut", "body": "Kotisiivous, toimistosiivous, muuttosiivous." },
+    { "type": "text", "title": "Miksi me?", "body": "Paikallinen, joustava ja laadukas palvelu." }
+  ],
+  "cta": { "label": "Pyydä tarjous", "href": "mailto:porigroup@gmail.com" }
+}
